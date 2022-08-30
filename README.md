@@ -1,6 +1,5 @@
 # accrua-rs
-accrua-rs aims to be an accruals calculation library, focusing on the OTC derivatives market
-and providing users the tools as defined in the ISDA Defnitions handbook.
+accrua-rs aims to be an accrued interest and coupon settlement calculation library, focusing on the OTC derivatives market and providing users the tools based on the conventions defined by ISDA.
 
 This is a pre-alpha version, which, as of now, I consider a placeholder, rather than a library that
 could be used in any environment.
